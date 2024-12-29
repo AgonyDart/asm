@@ -5,10 +5,10 @@ Este repositorio contiene el código desarrollado durante las materias de **Arqu
 ## Contenido del Repositorio
 
 ### Arquitectura de Computadoras
-- **vector.asm**: Código relacionado con operaciones vectoriales utilizando ensamblador. Este archivo incluye ejercicios y ejemplos prácticos desarrollados en la materia.
+- **vector.asm**: Suma de un vector tamaño N.
 
 ### Lenguajes de Interfaz
-- **math**: Implementaciones relacionadas con cálculos matemáticos básicos o avanzados en lenguajes de interfaz.
+- **math**: Las cuatro operaciones básicas con números de una cifra.
 - **display**: Código enfocado en la representación gráfica o visualización de datos.
 
 
